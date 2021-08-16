@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1OTEwMw==' border='0' alt='logo services'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo services</a></div>
 You can use the [editor on GitHub](https://github.com/MathxStudio/MathxStudio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
